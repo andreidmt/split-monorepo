@@ -1,0 +1,39 @@
+[submodule "@asd14/configs/ts-config"]
+	path = @asd14/configs/ts-config
+	url = git@github.com:asd-xiv/ts-config.git
+[submodule "@asd14/configs/prettier-config"]
+	path = @asd14/configs/prettier-config
+	url = git@github.com:asd-xiv/prettier-config.git
+[submodule "@asd14/libs/gruvbox-react"]
+	path = @asd14/libs/gruvbox-react
+	url = git@github.com:asd-xiv/gruvbox-react.git
+[submodule "@asd14/libs/vblocks"]
+	path = @asd14/libs/vblocks
+	url = git@github.com:asd-xiv/vblocks.git
+[submodule "@asd14/configs/eslint-config"]
+	path = @asd14/configs/eslint-config
+	url = git@github.com:asd-xiv/eslint-config.git
+[submodule "@asd14/libs/node-utils"]
+	path = @asd14/libs/node-utils
+	url = git@github.com:asd-xiv/node-utils.git
+[submodule "@d41/libs/tools"]
+	path = @d41/libs/tools
+	url = git@github.com:deckr41/tools.git
+[submodule "@asd14/libs/zeroboot"]
+	path = @asd14/libs/zeroboot
+	url = git@github.com:asd-xiv/zeroboot.git
+[submodule "@asd14/libs/posix-utils"]
+	path = @asd14/libs/posix-utils
+	url = git@github.com:asd-xiv/posix-utils.git
+[submodule "@asd14/libs/blocks"]
+	path = @asd14/libs/blocks
+	url = git@github.com:asd-xiv/blocks.git
+[submodule "@asd14/libs/task-pipeline"]
+	path = @asd14/libs/task-pipeline
+	url = git@github.com:asd-xiv/task-pipeline.git
+[submodule "@asd14/libs/terraform-modules"]
+	path = @asd14/libs/terraform-modules
+	url = git@github.com:asd-xiv/terraform-modules.git
+[submodule "@asd14/configs/stylelint-config"]
+	path = @asd14/configs/stylelint-config
+	url = git@github.com:asd-xiv/stylelint-config.git
