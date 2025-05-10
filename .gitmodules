@@ -28,9 +28,6 @@
 [submodule "@asd14/libs/blocks"]
 	path = @asd14/libs/blocks
 	url = git@github.com:asd-xiv/blocks.git
-[submodule "@asd14/libs/task-pipeline"]
-	path = @asd14/libs/task-pipeline
-	url = git@github.com:asd-xiv/task-pipeline.git
 [submodule "@asd14/libs/terraform-modules"]
 	path = @asd14/libs/terraform-modules
 	url = git@github.com:asd-xiv/terraform-modules.git
